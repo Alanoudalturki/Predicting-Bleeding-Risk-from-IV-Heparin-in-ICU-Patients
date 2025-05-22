@@ -1,6 +1,5 @@
 # Predicting Bleeding Risk in ICU Patients Receiving Intravenous Heparin: A Machine Learning Approach for Early, Explainable, and Actionable Intervention
 
-# Predicting Bleeding Risk in ICU Patients Receiving Intravenous Heparin
 
 ## Overview
 
